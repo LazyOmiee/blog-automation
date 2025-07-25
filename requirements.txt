@@ -1,2 +1,2 @@
-openai
-requests 
+requests
+python-dotenv
