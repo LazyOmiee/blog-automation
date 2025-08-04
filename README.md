@@ -1,1 +1,3 @@
 Wordpress Blog Posting Automation : https://drive.google.com/file/d/119Y7Oqf_Ir0yexmCFKml3wOwhUMfCR5d/view?usp=sharing
+You need make.com account
+python script
